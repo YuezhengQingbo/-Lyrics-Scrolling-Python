@@ -1,2 +1,2 @@
 # -Lyrics-Scrolling-Python
-This repository use WTFPL that authorize the Commercial use,Modification,Distribution and Private use.
+This inventory uses Do What The F*ck You Want To Public License that allows for commercial use, modification, distribution and private use.
