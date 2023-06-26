@@ -12,4 +12,5 @@ MacOS： Open the Command Line Tool(the Terminal) run [pip3 install pillow] or [
 
 Please insert the lyric like below:
 [00:00.00]line 00
+
 [00:00.15]line 01
